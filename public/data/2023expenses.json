@@ -1,0 +1,1827 @@
+[
+    {
+        "date": "2023-01-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-02",
+        "cost": 41.62,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-01-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-05",
+        "cost": 19.61,
+        "expenses": "Snacks; Coffee"
+    },
+    {
+        "date": "2023-01-06",
+        "cost": 38.58,
+        "expenses": "Coffee; Transportation"
+    },
+    {
+        "date": "2023-01-07",
+        "cost": 410.98,
+        "expenses": "Books; Outings"
+    },
+    {
+        "date": "2023-01-08",
+        "cost": 42.42,
+        "expenses": "Transportation; Snacks"
+    },
+    {
+        "date": "2023-01-09",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-10",
+        "cost": 43.11,
+        "expenses": "Dining; Coffee"
+    },
+    {
+        "date": "2023-01-11",
+        "cost": 60.76,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-01-12",
+        "cost": 112.62,
+        "expenses": "Groceries; Books"
+    },
+    {
+        "date": "2023-01-13",
+        "cost": 461.18,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-01-14",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-15",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-16",
+        "cost": 461.54,
+        "expenses": "Books; Rent"
+    },
+    {
+        "date": "2023-01-17",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-18",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-19",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-20",
+        "cost": 76.73,
+        "expenses": "Dining; Transportation"
+    },
+    {
+        "date": "2023-01-21",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-22",
+        "cost": 60.69,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-01-23",
+        "cost": 535.7,
+        "expenses": "Tuition Payment"
+    },
+    {
+        "date": "2023-01-24",
+        "cost": 30.06,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-01-25",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-27",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-28",
+        "cost": 953.93,
+        "expenses": "Semester Fees; Tuition Payment"
+    },
+    {
+        "date": "2023-01-29",
+        "cost": 20.56,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-01-30",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-01-31",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-02",
+        "cost": 42.36,
+        "expenses": "Subscriptions; Coffee"
+    },
+    {
+        "date": "2023-02-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-04",
+        "cost": 194.39,
+        "expenses": "Rent; Outings"
+    },
+    {
+        "date": "2023-02-05",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-06",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-07",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-08",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-09",
+        "cost": 57.58,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-02-10",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-11",
+        "cost": 83.5,
+        "expenses": "Transportation; Dining"
+    },
+    {
+        "date": "2023-02-12",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-13",
+        "cost": 695.67,
+        "expenses": "Electronics Purchase; Travel"
+    },
+    {
+        "date": "2023-02-14",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-15",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-16",
+        "cost": 72.15,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-02-17",
+        "cost": 63.57,
+        "expenses": "Transportation; Coffee"
+    },
+    {
+        "date": "2023-02-18",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-19",
+        "cost": 50.44,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-02-20",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-21",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-22",
+        "cost": 631.98,
+        "expenses": "Electronics Purchase"
+    },
+    {
+        "date": "2023-02-23",
+        "cost": 56.04,
+        "expenses": "Coffee; Transportation"
+    },
+    {
+        "date": "2023-02-24",
+        "cost": 46.64,
+        "expenses": "Dining; Subscriptions"
+    },
+    {
+        "date": "2023-02-25",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-27",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-02-28",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-01",
+        "cost": 97.78,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-03-02",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-04",
+        "cost": 50.6,
+        "expenses": "Coffee; Dining"
+    },
+    {
+        "date": "2023-03-05",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-06",
+        "cost": 57.44,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-03-07",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-08",
+        "cost": 76.81,
+        "expenses": "Coffee; Subscriptions"
+    },
+    {
+        "date": "2023-03-09",
+        "cost": 324.52,
+        "expenses": "Books; Outings"
+    },
+    {
+        "date": "2023-03-10",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-11",
+        "cost": 144.86,
+        "expenses": "Rent"
+    },
+    {
+        "date": "2023-03-12",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-13",
+        "cost": 62.35,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-03-14",
+        "cost": 57.98,
+        "expenses": "Dining; Transportation"
+    },
+    {
+        "date": "2023-03-15",
+        "cost": 70.56,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-03-16",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-17",
+        "cost": 60.84,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-03-18",
+        "cost": 255.31,
+        "expenses": "Rent"
+    },
+    {
+        "date": "2023-03-19",
+        "cost": 57.97,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-03-20",
+        "cost": 359.66,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-03-21",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-22",
+        "cost": 77.36,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-03-23",
+        "cost": 14.92,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-03-24",
+        "cost": 532.73,
+        "expenses": "Travel"
+    },
+    {
+        "date": "2023-03-25",
+        "cost": 24.19,
+        "expenses": "Dining; Snacks"
+    },
+    {
+        "date": "2023-03-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-03-27",
+        "cost": 215.64,
+        "expenses": "Rent; Groceries"
+    },
+    {
+        "date": "2023-03-28",
+        "cost": 90.5,
+        "expenses": "Coffee; Snacks"
+    },
+    {
+        "date": "2023-03-29",
+        "cost": 355.11,
+        "expenses": "Groceries; Outings"
+    },
+    {
+        "date": "2023-03-30",
+        "cost": 48.05,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-03-31",
+        "cost": 86.31,
+        "expenses": "Subscriptions; Coffee"
+    },
+    {
+        "date": "2023-04-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-02",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-03",
+        "cost": 92.56,
+        "expenses": "Coffee; Subscriptions"
+    },
+    {
+        "date": "2023-04-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-05",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-06",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-07",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-08",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-09",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-10",
+        "cost": 497.35,
+        "expenses": "Books; Groceries"
+    },
+    {
+        "date": "2023-04-11",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-12",
+        "cost": 49.9,
+        "expenses": "Subscriptions; Dining"
+    },
+    {
+        "date": "2023-04-13",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-14",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-15",
+        "cost": 372.11,
+        "expenses": "Outings; Groceries"
+    },
+    {
+        "date": "2023-04-16",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-17",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-18",
+        "cost": 83.25,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-04-19",
+        "cost": 7.89,
+        "expenses": "Coffee; Subscriptions"
+    },
+    {
+        "date": "2023-04-20",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-21",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-22",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-23",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-24",
+        "cost": 845.2,
+        "expenses": "Semester Fees"
+    },
+    {
+        "date": "2023-04-25",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-04-26",
+        "cost": 42.4,
+        "expenses": "Subscriptions; Transportation"
+    },
+    {
+        "date": "2023-04-27",
+        "cost": 64.93,
+        "expenses": "Snacks; Transportation"
+    },
+    {
+        "date": "2023-04-28",
+        "cost": 20.63,
+        "expenses": "Dining; Subscriptions"
+    },
+    {
+        "date": "2023-04-29",
+        "cost": 108.85,
+        "expenses": "Groceries"
+    },
+    {
+        "date": "2023-04-30",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-01",
+        "cost": 1.76,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-05-02",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-03",
+        "cost": 1.15,
+        "expenses": "Dining; Snacks"
+    },
+    {
+        "date": "2023-05-04",
+        "cost": 50.11,
+        "expenses": "Transportation; Coffee"
+    },
+    {
+        "date": "2023-05-05",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-06",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-07",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-08",
+        "cost": 40.31,
+        "expenses": "Dining; Subscriptions"
+    },
+    {
+        "date": "2023-05-09",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-10",
+        "cost": 565.78,
+        "expenses": "Electronics Purchase"
+    },
+    {
+        "date": "2023-05-11",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-12",
+        "cost": 10.6,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-05-13",
+        "cost": 69.57,
+        "expenses": "Transportation; Dining"
+    },
+    {
+        "date": "2023-05-14",
+        "cost": 90.47,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-05-15",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-16",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-17",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-18",
+        "cost": 8.67,
+        "expenses": "Subscriptions; Snacks"
+    },
+    {
+        "date": "2023-05-19",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-20",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-21",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-22",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-23",
+        "cost": 577.99,
+        "expenses": "Electronics Purchase; Tuition Payment"
+    },
+    {
+        "date": "2023-05-24",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-25",
+        "cost": 151.91,
+        "expenses": "Outings; Rent"
+    },
+    {
+        "date": "2023-05-26",
+        "cost": 81.21,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-05-27",
+        "cost": 462.71,
+        "expenses": "Rent; Books"
+    },
+    {
+        "date": "2023-05-28",
+        "cost": 19.86,
+        "expenses": "Transportation; Dining"
+    },
+    {
+        "date": "2023-05-29",
+        "cost": 56.84,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-05-30",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-05-31",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-02",
+        "cost": 95.21,
+        "expenses": "Dining; Coffee"
+    },
+    {
+        "date": "2023-06-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-05",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-06",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-07",
+        "cost": 14.2,
+        "expenses": "Subscriptions; Snacks"
+    },
+    {
+        "date": "2023-06-08",
+        "cost": 22.42,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-06-09",
+        "cost": 86.64,
+        "expenses": "Transportation; Coffee"
+    },
+    {
+        "date": "2023-06-10",
+        "cost": 282.66,
+        "expenses": "Books; Outings"
+    },
+    {
+        "date": "2023-06-11",
+        "cost": 6.77,
+        "expenses": "Coffee; Snacks"
+    },
+    {
+        "date": "2023-06-12",
+        "cost": 576.5,
+        "expenses": "Travel"
+    },
+    {
+        "date": "2023-06-13",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-14",
+        "cost": 19.56,
+        "expenses": "Transportation; Dining"
+    },
+    {
+        "date": "2023-06-15",
+        "cost": 53.97,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-06-16",
+        "cost": 167.63,
+        "expenses": "Groceries; Rent"
+    },
+    {
+        "date": "2023-06-17",
+        "cost": 897.69,
+        "expenses": "Travel"
+    },
+    {
+        "date": "2023-06-18",
+        "cost": 184.2,
+        "expenses": "Rent; Groceries"
+    },
+    {
+        "date": "2023-06-19",
+        "cost": 80.5,
+        "expenses": "Dining; Coffee"
+    },
+    {
+        "date": "2023-06-20",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-21",
+        "cost": 127.1,
+        "expenses": "Rent; Outings"
+    },
+    {
+        "date": "2023-06-22",
+        "cost": 39.64,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-06-23",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-24",
+        "cost": 97.13,
+        "expenses": "Transportation; Coffee"
+    },
+    {
+        "date": "2023-06-25",
+        "cost": 219.35,
+        "expenses": "Rent"
+    },
+    {
+        "date": "2023-06-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-06-27",
+        "cost": 8.72,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-06-28",
+        "cost": 84.57,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-06-29",
+        "cost": 420.16,
+        "expenses": "Groceries"
+    },
+    {
+        "date": "2023-06-30",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-01",
+        "cost": 21.8,
+        "expenses": "Coffee; Dining"
+    },
+    {
+        "date": "2023-07-02",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-05",
+        "cost": 386.3,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-07-06",
+        "cost": 63.0,
+        "expenses": "Subscriptions; Coffee"
+    },
+    {
+        "date": "2023-07-07",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-08",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-09",
+        "cost": 46.01,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-07-10",
+        "cost": 36.24,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-07-11",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-12",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-13",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-14",
+        "cost": 57.33,
+        "expenses": "Dining; Snacks"
+    },
+    {
+        "date": "2023-07-15",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-16",
+        "cost": 6.64,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-07-17",
+        "cost": 679.85,
+        "expenses": "Semester Fees"
+    },
+    {
+        "date": "2023-07-18",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-19",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-20",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-21",
+        "cost": 717.02,
+        "expenses": "Electronics Purchase"
+    },
+    {
+        "date": "2023-07-22",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-23",
+        "cost": 53.38,
+        "expenses": "Coffee; Dining"
+    },
+    {
+        "date": "2023-07-24",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-25",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-27",
+        "cost": 93.29,
+        "expenses": "Dining; Transportation"
+    },
+    {
+        "date": "2023-07-28",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-07-29",
+        "cost": 195.73,
+        "expenses": "Groceries"
+    },
+    {
+        "date": "2023-07-30",
+        "cost": 65.56,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-07-31",
+        "cost": 457.54,
+        "expenses": "Groceries"
+    },
+    {
+        "date": "2023-08-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-02",
+        "cost": 48.43,
+        "expenses": "Coffee; Transportation"
+    },
+    {
+        "date": "2023-08-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-05",
+        "cost": 53.43,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-08-06",
+        "cost": 31.23,
+        "expenses": "Subscriptions; Dining"
+    },
+    {
+        "date": "2023-08-07",
+        "cost": 74.12,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-08-08",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-09",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-10",
+        "cost": 700.09,
+        "expenses": "Tuition Payment; Semester Fees"
+    },
+    {
+        "date": "2023-08-11",
+        "cost": 27.38,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-08-12",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-13",
+        "cost": 9.64,
+        "expenses": "Transportation; Snacks"
+    },
+    {
+        "date": "2023-08-14",
+        "cost": 618.71,
+        "expenses": "Electronics Purchase"
+    },
+    {
+        "date": "2023-08-15",
+        "cost": 667.77,
+        "expenses": "Travel; Semester Fees"
+    },
+    {
+        "date": "2023-08-16",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-17",
+        "cost": 29.07,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-08-18",
+        "cost": 4.94,
+        "expenses": "Subscriptions; Snacks"
+    },
+    {
+        "date": "2023-08-19",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-20",
+        "cost": 818.89,
+        "expenses": "Travel; Electronics Purchase"
+    },
+    {
+        "date": "2023-08-21",
+        "cost": 213.42,
+        "expenses": "Groceries; Outings"
+    },
+    {
+        "date": "2023-08-22",
+        "cost": 809.66,
+        "expenses": "Semester Fees"
+    },
+    {
+        "date": "2023-08-23",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-24",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-25",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-27",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-28",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-08-29",
+        "cost": 433.63,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-08-30",
+        "cost": 163.26,
+        "expenses": "Rent"
+    },
+    {
+        "date": "2023-08-31",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-02",
+        "cost": 69.44,
+        "expenses": "Coffee; Snacks"
+    },
+    {
+        "date": "2023-09-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-05",
+        "cost": 15.19,
+        "expenses": "Snacks; Dining"
+    },
+    {
+        "date": "2023-09-06",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-07",
+        "cost": 474.57,
+        "expenses": "Outings; Groceries"
+    },
+    {
+        "date": "2023-09-08",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-09",
+        "cost": 62.06,
+        "expenses": "Snacks; Subscriptions"
+    },
+    {
+        "date": "2023-09-10",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-11",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-12",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-13",
+        "cost": 31.25,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-09-14",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-15",
+        "cost": 22.63,
+        "expenses": "Snacks; Coffee"
+    },
+    {
+        "date": "2023-09-16",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-17",
+        "cost": 16.18,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-09-18",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-19",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-20",
+        "cost": 61.61,
+        "expenses": "Subscriptions; Snacks"
+    },
+    {
+        "date": "2023-09-21",
+        "cost": 134.99,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-09-22",
+        "cost": 295.83,
+        "expenses": "Rent; Groceries"
+    },
+    {
+        "date": "2023-09-23",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-24",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-25",
+        "cost": 80.41,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-09-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-27",
+        "cost": 22.18,
+        "expenses": "Transportation; Dining"
+    },
+    {
+        "date": "2023-09-28",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-09-29",
+        "cost": 95.69,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-09-30",
+        "cost": 667.3,
+        "expenses": "Electronics Purchase; Semester Fees"
+    },
+    {
+        "date": "2023-10-01",
+        "cost": 477.96,
+        "expenses": "Groceries"
+    },
+    {
+        "date": "2023-10-02",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-03",
+        "cost": 158.57,
+        "expenses": "Outings; Books"
+    },
+    {
+        "date": "2023-10-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-05",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-06",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-07",
+        "cost": 475.72,
+        "expenses": "Books; Outings"
+    },
+    {
+        "date": "2023-10-08",
+        "cost": 16.72,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-10-09",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-10",
+        "cost": 431.5,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-10-11",
+        "cost": 67.35,
+        "expenses": "Dining; Snacks"
+    },
+    {
+        "date": "2023-10-12",
+        "cost": 22.35,
+        "expenses": "Dining; Transportation"
+    },
+    {
+        "date": "2023-10-13",
+        "cost": 440.76,
+        "expenses": "Rent"
+    },
+    {
+        "date": "2023-10-14",
+        "cost": 327.4,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-10-15",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-16",
+        "cost": 141.28,
+        "expenses": "Groceries; Rent"
+    },
+    {
+        "date": "2023-10-17",
+        "cost": 86.11,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-10-18",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-19",
+        "cost": 42.65,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-10-20",
+        "cost": 200.87,
+        "expenses": "Outings; Books"
+    },
+    {
+        "date": "2023-10-21",
+        "cost": 80.16,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-10-22",
+        "cost": 71.77,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-10-23",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-24",
+        "cost": 31.85,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-10-25",
+        "cost": 396.46,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-10-26",
+        "cost": 32.46,
+        "expenses": "Dining; Transportation"
+    },
+    {
+        "date": "2023-10-27",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-28",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-29",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-30",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-10-31",
+        "cost": 249.08,
+        "expenses": "Outings"
+    },
+    {
+        "date": "2023-11-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-02",
+        "cost": 68.92,
+        "expenses": "Dining"
+    },
+    {
+        "date": "2023-11-03",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-04",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-05",
+        "cost": 102.4,
+        "expenses": "Outings"
+    },
+    {
+        "date": "2023-11-06",
+        "cost": 320.5,
+        "expenses": "Groceries; Rent"
+    },
+    {
+        "date": "2023-11-07",
+        "cost": 70.49,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-11-08",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-09",
+        "cost": 71.28,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-11-10",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-11",
+        "cost": 47.88,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-11-12",
+        "cost": 1.82,
+        "expenses": "Transportation; Dining"
+    },
+    {
+        "date": "2023-11-13",
+        "cost": 922.89,
+        "expenses": "Semester Fees"
+    },
+    {
+        "date": "2023-11-14",
+        "cost": 53.36,
+        "expenses": "Subscriptions; Coffee"
+    },
+    {
+        "date": "2023-11-15",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-16",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-17",
+        "cost": 11.26,
+        "expenses": "Dining; Coffee"
+    },
+    {
+        "date": "2023-11-18",
+        "cost": 397.26,
+        "expenses": "Outings"
+    },
+    {
+        "date": "2023-11-19",
+        "cost": 202.06,
+        "expenses": "Books"
+    },
+    {
+        "date": "2023-11-20",
+        "cost": 20.73,
+        "expenses": "Transportation; Dining"
+    },
+    {
+        "date": "2023-11-21",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-22",
+        "cost": 94.01,
+        "expenses": "Dining; Coffee"
+    },
+    {
+        "date": "2023-11-23",
+        "cost": 18.28,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-11-24",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-25",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-11-27",
+        "cost": 40.11,
+        "expenses": "Subscriptions; Transportation"
+    },
+    {
+        "date": "2023-11-28",
+        "cost": 313.62,
+        "expenses": "Outings; Rent"
+    },
+    {
+        "date": "2023-11-29",
+        "cost": 126.46,
+        "expenses": "Rent; Outings"
+    },
+    {
+        "date": "2023-11-30",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-01",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-02",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-03",
+        "cost": 25.84,
+        "expenses": "Subscriptions; Snacks"
+    },
+    {
+        "date": "2023-12-04",
+        "cost": 618.42,
+        "expenses": "Travel; Electronics Purchase"
+    },
+    {
+        "date": "2023-12-05",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-06",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-07",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-08",
+        "cost": 59.44,
+        "expenses": "Snacks"
+    },
+    {
+        "date": "2023-12-09",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-10",
+        "cost": 82.32,
+        "expenses": "Transportation"
+    },
+    {
+        "date": "2023-12-11",
+        "cost": 96.05,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-12-12",
+        "cost": 61.42,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-12-13",
+        "cost": 32.69,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-12-14",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-15",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-16",
+        "cost": 122.17,
+        "expenses": "Books; Outings"
+    },
+    {
+        "date": "2023-12-17",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-18",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-19",
+        "cost": 88.6,
+        "expenses": "Snacks; Subscriptions"
+    },
+    {
+        "date": "2023-12-20",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-21",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-22",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-23",
+        "cost": 16.82,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-12-24",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-25",
+        "cost": 27.32,
+        "expenses": "Coffee"
+    },
+    {
+        "date": "2023-12-26",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-27",
+        "cost": 296.2,
+        "expenses": "Groceries; Books"
+    },
+    {
+        "date": "2023-12-28",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-29",
+        "cost": 66.53,
+        "expenses": "Subscriptions"
+    },
+    {
+        "date": "2023-12-30",
+        "cost": 0,
+        "expenses": "None"
+    },
+    {
+        "date": "2023-12-31",
+        "cost": 452.05,
+        "expenses": "Rent; Books"
+    }
+]

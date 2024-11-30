@@ -1,0 +1,74 @@
+/* General Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to bottom, #e0f7ff, #cceeff); /* Subtle blue gradient */
+  color: #004080; /* Dark blue text color for contrast */
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 40px; /* Adjust spacing below the title */
+  font-weight: bold;
+  color: #004080;
+}
+
+/* Heatmap Container */
+.react-calendar-heatmap {
+  width: 100%; /* Full width for responsiveness */
+  max-width: 1400px; /* Constrain width on larger screens */
+  height: auto; /* Maintain aspect ratio */
+  margin: 0 auto; /* Center heatmap */
+  transform: scale(2); /* Increase size for better visibility */
+  transform-origin: center; /* Center the scaling effect */
+  margin-top: 50px; /* Adjust placement downward */
+}
+
+/* Heatmap Text (Months, Days) */
+.react-calendar-heatmap text {
+  font-size: 0.8rem; /* Reduced size for labels */
+  fill: #004080; /* Dark blue for text */
+}
+
+/* Heatmap Colors */
+.color-empty {
+  fill: #ebedf0; /* Light gray for no spending */
+}
+
+.color-scale-1 {
+  fill: #cce7ff; /* Light blue for light spending */
+}
+
+.color-scale-2 {
+  fill: #80bfff; /* Medium-light blue for moderate spending */
+}
+
+.color-scale-3 {
+  fill: #3399ff; /* Medium blue for higher spending */
+}
+
+.color-scale-4 {
+  fill: #004080; /* Dark blue for heavy spending */
+}
+
+/* Tooltip Styles */
+.react-tooltip {
+  background: #004080; /* Dark blue tooltip background */
+  color: #ffffff; /* White text for contrast */
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Center Heatmap Vertically */
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* Keep content at the top */
+  min-height: 100vh;
+  padding-top: 100px; /* Add padding to push content downward */
+}
